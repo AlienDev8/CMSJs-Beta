@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CMSJs 0.1 Beta
 
 You can use the [editor on GitHub](https://github.com/rovalxDev/CMSJs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
