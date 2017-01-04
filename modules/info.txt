@@ -1,0 +1,5 @@
+### information about modules
+
+1 - the modules are to use into controllers models.
+2 - You can create constants, routes, or functions globals for the projects
+3 -  check example:  https://github.com/totaljs/examples/tree/master/framework-modules
