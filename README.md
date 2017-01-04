@@ -1,8 +1,6 @@
 ## CMSJs 0.1 Beta
 
-You can use the [editor on GitHub](https://github.com/rovalxDev/CMSJs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to CMSJs, currently in build, will works to build and manage websites of any kind using the power of [NodeJs](https://nodejs.org), [AngularJs](https://angularjs.org), [Bootstrap 3](http://getbootstrap.com/) and [TotalJs] (https://www.totaljs.com/)
 
 ### Markdown
 
