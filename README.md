@@ -2,7 +2,7 @@
 
 Welcome to CMSJs, currently in build, will works to build and manage websites of any kind using the power of [NodeJs](https://nodejs.org), [AngularJs](https://angularjs.org), [Bootstrap 3](http://getbootstrap.com/) and [TotalJs] (https://www.totaljs.com/)
 
-### Markdown
+### Structure
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,6 +25,10 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### How to Install
+
+Lorem ipsum........
 
 ### Jekyll Themes
 
